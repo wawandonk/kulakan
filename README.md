@@ -1,2 +1,3 @@
 # kulakan
-aplikasi untuk jual beli
+# aplikasi untuk jual beli
+# dibuat oleh wawan
